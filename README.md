@@ -29,6 +29,3 @@ A premium-oriented collection of animated, reusable SwiftUI building blocks with
 
 ## Important
 This is a source-code starter kit. The components are self-contained UI building blocks, not a complete backend or purchase/authentication product. Test on supported devices and OS versions before commercial distribution. Review accessibility, localization, reduced-motion behavior and production edge cases before release.
-
-## License
-See `LICENSE.txt`. Add your support email before publishing.
