@@ -1,5 +1,4 @@
-# MHK CodeCraft Premium SwiftUI Kit
-Version 1.0 · SwiftUI · iOS 15+
+#Version 1.0 · SwiftUI · iOS 15+
 
 A premium-oriented collection of animated, reusable SwiftUI building blocks with a live gallery demo.
 
